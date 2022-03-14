@@ -2,7 +2,7 @@ header{
  height: 180px;
  
 }
-nav{
+.meunavbar{
     flex-direction: column;
 
 }
