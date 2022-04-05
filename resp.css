@@ -4,7 +4,7 @@
     
 }
 .myname{
-    padding: 40px;
+    padding: 40px !important;
 }
 .listaprojetos{
     justify-content: center;
