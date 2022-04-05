@@ -4,13 +4,12 @@
     
 }
 .listaprojetos{
-    width: 100%;
     justify-content: center;
-    align-items: center;
+
+    display: flex;
 }
 .container{
-    width: 1000px;
-
+    width: 500px !important; 
 }
 .listaprojetos{
     height: 2700px ;
