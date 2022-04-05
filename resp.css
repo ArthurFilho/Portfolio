@@ -3,6 +3,9 @@
     flex-direction: column;
     
 }
+.myname{
+    padding: 40px;
+}
 .listaprojetos{
     justify-content: center;
 
