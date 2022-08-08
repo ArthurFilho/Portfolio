@@ -1,5 +1,5 @@
 header{
- height: 200px;
+ height: 100px;
  
 }
 .meunavbar{
@@ -17,4 +17,7 @@ hr{
 }
 .certification{
 width: 400px;
+}
+.mobi{
+    display: none;
 }

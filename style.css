@@ -155,8 +155,13 @@ margin: 10px;
     letter-spacing: 1px;
     font-style: italic;  
 }
+.myname:hover{
+    text-shadow: 1px 1px 2px black;
+    transition: 0.5s text-shadow;
+    cursor: pointer;
+}
 .listaprojetos{
-    height: 1200px;
+    height: 1900px;
     background-color: #d3d3d3;
     background-repeat: no-repeat;
     background-size:cover;
@@ -184,4 +189,7 @@ margin: 15px 15px;
 .certification{
 width: 650px; 
 height: 300px;
+}
+.myname{
+    padding-left: 10px;
 }
